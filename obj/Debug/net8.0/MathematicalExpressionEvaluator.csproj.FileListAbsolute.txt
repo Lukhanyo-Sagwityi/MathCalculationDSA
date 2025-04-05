@@ -1,0 +1,42 @@
+C:\Users\akinyeluaa\Documents\Visual Studio 2022\Projects\CSIQ2614 2025 Projects\MathematicalExpressionEvaluator\bin\Debug\net8.0\MathematicalExpressionEvaluator.exe
+C:\Users\akinyeluaa\Documents\Visual Studio 2022\Projects\CSIQ2614 2025 Projects\MathematicalExpressionEvaluator\bin\Debug\net8.0\MathematicalExpressionEvaluator.deps.json
+C:\Users\akinyeluaa\Documents\Visual Studio 2022\Projects\CSIQ2614 2025 Projects\MathematicalExpressionEvaluator\bin\Debug\net8.0\MathematicalExpressionEvaluator.runtimeconfig.json
+C:\Users\akinyeluaa\Documents\Visual Studio 2022\Projects\CSIQ2614 2025 Projects\MathematicalExpressionEvaluator\bin\Debug\net8.0\MathematicalExpressionEvaluator.dll
+C:\Users\akinyeluaa\Documents\Visual Studio 2022\Projects\CSIQ2614 2025 Projects\MathematicalExpressionEvaluator\bin\Debug\net8.0\MathematicalExpressionEvaluator.pdb
+C:\Users\akinyeluaa\Documents\Visual Studio 2022\Projects\CSIQ2614 2025 Projects\MathematicalExpressionEvaluator\obj\Debug\net8.0\MathematicalExpressionEvaluator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akinyeluaa\Documents\Visual Studio 2022\Projects\CSIQ2614 2025 Projects\MathematicalExpressionEvaluator\obj\Debug\net8.0\MathematicalExpressionEvaluator.AssemblyInfoInputs.cache
+C:\Users\akinyeluaa\Documents\Visual Studio 2022\Projects\CSIQ2614 2025 Projects\MathematicalExpressionEvaluator\obj\Debug\net8.0\MathematicalExpressionEvaluator.AssemblyInfo.cs
+C:\Users\akinyeluaa\Documents\Visual Studio 2022\Projects\CSIQ2614 2025 Projects\MathematicalExpressionEvaluator\obj\Debug\net8.0\MathematicalExpressionEvaluator.csproj.CoreCompileInputs.cache
+C:\Users\akinyeluaa\Documents\Visual Studio 2022\Projects\CSIQ2614 2025 Projects\MathematicalExpressionEvaluator\obj\Debug\net8.0\MathematicalExpressionEvaluator.dll
+C:\Users\akinyeluaa\Documents\Visual Studio 2022\Projects\CSIQ2614 2025 Projects\MathematicalExpressionEvaluator\obj\Debug\net8.0\refint\MathematicalExpressionEvaluator.dll
+C:\Users\akinyeluaa\Documents\Visual Studio 2022\Projects\CSIQ2614 2025 Projects\MathematicalExpressionEvaluator\obj\Debug\net8.0\MathematicalExpressionEvaluator.pdb
+C:\Users\akinyeluaa\Documents\Visual Studio 2022\Projects\CSIQ2614 2025 Projects\MathematicalExpressionEvaluator\obj\Debug\net8.0\MathematicalExpressionEvaluator.genruntimeconfig.cache
+C:\Users\akinyeluaa\Documents\Visual Studio 2022\Projects\CSIQ2614 2025 Projects\MathematicalExpressionEvaluator\obj\Debug\net8.0\ref\MathematicalExpressionEvaluator.dll
+C:\Users\akinyeluaa\Documents\Visual Studio 2022\Projects\CSIQ2614 2025 Projects\MathematicalExpressionEvaluator - Partial Solution\bin\Debug\net8.0\MathematicalExpressionEvaluator.exe
+C:\Users\akinyeluaa\Documents\Visual Studio 2022\Projects\CSIQ2614 2025 Projects\MathematicalExpressionEvaluator - Partial Solution\bin\Debug\net8.0\MathematicalExpressionEvaluator.deps.json
+C:\Users\akinyeluaa\Documents\Visual Studio 2022\Projects\CSIQ2614 2025 Projects\MathematicalExpressionEvaluator - Partial Solution\bin\Debug\net8.0\MathematicalExpressionEvaluator.runtimeconfig.json
+C:\Users\akinyeluaa\Documents\Visual Studio 2022\Projects\CSIQ2614 2025 Projects\MathematicalExpressionEvaluator - Partial Solution\bin\Debug\net8.0\MathematicalExpressionEvaluator.dll
+C:\Users\akinyeluaa\Documents\Visual Studio 2022\Projects\CSIQ2614 2025 Projects\MathematicalExpressionEvaluator - Partial Solution\bin\Debug\net8.0\MathematicalExpressionEvaluator.pdb
+C:\Users\akinyeluaa\Documents\Visual Studio 2022\Projects\CSIQ2614 2025 Projects\MathematicalExpressionEvaluator - Partial Solution\obj\Debug\net8.0\MathematicalExpressionEvaluator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akinyeluaa\Documents\Visual Studio 2022\Projects\CSIQ2614 2025 Projects\MathematicalExpressionEvaluator - Partial Solution\obj\Debug\net8.0\MathematicalExpressionEvaluator.AssemblyInfoInputs.cache
+C:\Users\akinyeluaa\Documents\Visual Studio 2022\Projects\CSIQ2614 2025 Projects\MathematicalExpressionEvaluator - Partial Solution\obj\Debug\net8.0\MathematicalExpressionEvaluator.AssemblyInfo.cs
+C:\Users\akinyeluaa\Documents\Visual Studio 2022\Projects\CSIQ2614 2025 Projects\MathematicalExpressionEvaluator - Partial Solution\obj\Debug\net8.0\MathematicalExpressionEvaluator.csproj.CoreCompileInputs.cache
+C:\Users\akinyeluaa\Documents\Visual Studio 2022\Projects\CSIQ2614 2025 Projects\MathematicalExpressionEvaluator - Partial Solution\obj\Debug\net8.0\MathematicalExpressionEvaluator.dll
+C:\Users\akinyeluaa\Documents\Visual Studio 2022\Projects\CSIQ2614 2025 Projects\MathematicalExpressionEvaluator - Partial Solution\obj\Debug\net8.0\refint\MathematicalExpressionEvaluator.dll
+C:\Users\akinyeluaa\Documents\Visual Studio 2022\Projects\CSIQ2614 2025 Projects\MathematicalExpressionEvaluator - Partial Solution\obj\Debug\net8.0\MathematicalExpressionEvaluator.pdb
+C:\Users\akinyeluaa\Documents\Visual Studio 2022\Projects\CSIQ2614 2025 Projects\MathematicalExpressionEvaluator - Partial Solution\obj\Debug\net8.0\MathematicalExpressionEvaluator.genruntimeconfig.cache
+C:\Users\akinyeluaa\Documents\Visual Studio 2022\Projects\CSIQ2614 2025 Projects\MathematicalExpressionEvaluator - Partial Solution\obj\Debug\net8.0\ref\MathematicalExpressionEvaluator.dll
+C:\Users\DELL\Downloads\MathematicalExpressionEvaluator - Partial Solution\MathematicalExpressionEvaluator - Partial Solution\bin\Debug\net8.0\MathematicalExpressionEvaluator.exe
+C:\Users\DELL\Downloads\MathematicalExpressionEvaluator - Partial Solution\MathematicalExpressionEvaluator - Partial Solution\bin\Debug\net8.0\MathematicalExpressionEvaluator.deps.json
+C:\Users\DELL\Downloads\MathematicalExpressionEvaluator - Partial Solution\MathematicalExpressionEvaluator - Partial Solution\bin\Debug\net8.0\MathematicalExpressionEvaluator.runtimeconfig.json
+C:\Users\DELL\Downloads\MathematicalExpressionEvaluator - Partial Solution\MathematicalExpressionEvaluator - Partial Solution\bin\Debug\net8.0\MathematicalExpressionEvaluator.dll
+C:\Users\DELL\Downloads\MathematicalExpressionEvaluator - Partial Solution\MathematicalExpressionEvaluator - Partial Solution\bin\Debug\net8.0\MathematicalExpressionEvaluator.pdb
+C:\Users\DELL\Downloads\MathematicalExpressionEvaluator - Partial Solution\MathematicalExpressionEvaluator - Partial Solution\obj\Debug\net8.0\MathematicalExpressionEvaluator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Downloads\MathematicalExpressionEvaluator - Partial Solution\MathematicalExpressionEvaluator - Partial Solution\obj\Debug\net8.0\MathematicalExpressionEvaluator.AssemblyInfoInputs.cache
+C:\Users\DELL\Downloads\MathematicalExpressionEvaluator - Partial Solution\MathematicalExpressionEvaluator - Partial Solution\obj\Debug\net8.0\MathematicalExpressionEvaluator.AssemblyInfo.cs
+C:\Users\DELL\Downloads\MathematicalExpressionEvaluator - Partial Solution\MathematicalExpressionEvaluator - Partial Solution\obj\Debug\net8.0\MathematicalExpressionEvaluator.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\MathematicalExpressionEvaluator - Partial Solution\MathematicalExpressionEvaluator - Partial Solution\obj\Debug\net8.0\MathematicalExpressionEvaluator.dll
+C:\Users\DELL\Downloads\MathematicalExpressionEvaluator - Partial Solution\MathematicalExpressionEvaluator - Partial Solution\obj\Debug\net8.0\refint\MathematicalExpressionEvaluator.dll
+C:\Users\DELL\Downloads\MathematicalExpressionEvaluator - Partial Solution\MathematicalExpressionEvaluator - Partial Solution\obj\Debug\net8.0\MathematicalExpressionEvaluator.pdb
+C:\Users\DELL\Downloads\MathematicalExpressionEvaluator - Partial Solution\MathematicalExpressionEvaluator - Partial Solution\obj\Debug\net8.0\MathematicalExpressionEvaluator.genruntimeconfig.cache
+C:\Users\DELL\Downloads\MathematicalExpressionEvaluator - Partial Solution\MathematicalExpressionEvaluator - Partial Solution\obj\Debug\net8.0\ref\MathematicalExpressionEvaluator.dll

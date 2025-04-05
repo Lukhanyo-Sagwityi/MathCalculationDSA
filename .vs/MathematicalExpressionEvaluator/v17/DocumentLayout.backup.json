@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Downloads\\MathematicalExpressionEvaluator - Partial Solution\\MathematicalExpressionEvaluator - Partial Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F64B415-E548-4607-8B57-C6FD921F2944}|MathematicalExpressionEvaluator.csproj|c:\\users\\dell\\downloads\\mathematicalexpressionevaluator - partial solution\\mathematicalexpressionevaluator - partial solution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F64B415-E548-4607-8B57-C6FD921F2944}|MathematicalExpressionEvaluator.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F64B415-E548-4607-8B57-C6FD921F2944}|MathematicalExpressionEvaluator.csproj|c:\\users\\dell\\downloads\\mathematicalexpressionevaluator - partial solution\\mathematicalexpressionevaluator - partial solution\\stackoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F64B415-E548-4607-8B57-C6FD921F2944}|MathematicalExpressionEvaluator.csproj|solutionrelative:stackoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F64B415-E548-4607-8B57-C6FD921F2944}|MathematicalExpressionEvaluator.csproj|c:\\users\\dell\\downloads\\mathematicalexpressionevaluator - partial solution\\mathematicalexpressionevaluator - partial solution\\staticgenericstack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F64B415-E548-4607-8B57-C6FD921F2944}|MathematicalExpressionEvaluator.csproj|solutionrelative:staticgenericstack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StackOperation.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\MathematicalExpressionEvaluator - Partial Solution\\MathematicalExpressionEvaluator - Partial Solution\\StackOperation.cs",
+              "RelativeDocumentMoniker": "StackOperation.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\MathematicalExpressionEvaluator - Partial Solution\\MathematicalExpressionEvaluator - Partial Solution\\StackOperation.cs",
+              "RelativeToolTip": "StackOperation.cs",
+              "ViewState": "AgIAAKkAAAAAAAAAAAAAAMAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T08:11:46.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StaticGenericStack.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\MathematicalExpressionEvaluator - Partial Solution\\MathematicalExpressionEvaluator - Partial Solution\\StaticGenericStack.cs",
+              "RelativeDocumentMoniker": "StaticGenericStack.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\MathematicalExpressionEvaluator - Partial Solution\\MathematicalExpressionEvaluator - Partial Solution\\StaticGenericStack.cs",
+              "RelativeToolTip": "StaticGenericStack.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T09:12:16.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\MathematicalExpressionEvaluator - Partial Solution\\MathematicalExpressionEvaluator - Partial Solution\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\MathematicalExpressionEvaluator - Partial Solution\\MathematicalExpressionEvaluator - Partial Solution\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAFQAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T15:43:40.524Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
